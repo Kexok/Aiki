@@ -8623,10 +8623,10 @@ textarea.form-control-lg {
   position: relative; }
 
 .logo {
-  font-size: 20px;
+  font-size: 18px;
   color: #000;
   font-weight: 700;
-  top: 6px;
+  top: 7px;
   position: relative; }
   .logo:hover {
     color: rgba(0, 0, 0, 0.85); }
@@ -9058,14 +9058,14 @@ textarea.form-control-lg {
   outline: none; }
 
 body {
-  font-family: "Poppins", sans-serif;
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Helvetica Neue",Helvetica,"PingFang SC","Microsoft YaHei UI","Microsoft YaHei","Hiragino Sans GB",Arial,sans-serif;
   font-weight: 400;
   font-size: 14px;
   overflow-x: hidden;
   color: #252837; }
 
 h1, .h1, h2, .h2, h3, .h3, h4, .h4, h5, .h5, .logo {
-  font-family: "Poppins", sans-serif; }
+  font-family: -apple-system,BlinkMacSystemFont,"Segoe UI","Helvetica Neue",Helvetica,"PingFang SC","Microsoft YaHei UI","Microsoft YaHei","Hiragino Sans GB",Arial,sans-serif; }
 
 a {
   -webkit-transition: .3s all ease;
@@ -9383,6 +9383,6 @@ textarea {
     .site-footer ul.quick-info li.email:before {
       content: "\f0e0"; }
     .site-footer ul.quick-info li.phone:before {
-      content: "\f095"; }
+      content: "\f1d7"; }
     .site-footer ul.quick-info li.address:before {
-      content: "\e8b4"; }
+      content: "\f1d6"; }
