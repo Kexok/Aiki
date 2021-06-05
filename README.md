@@ -1,2 +1,2 @@
 # Aiki
-Aiki.wiki
+AIKI.WIKI
